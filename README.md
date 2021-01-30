@@ -1,6 +1,6 @@
 # HeadSeansor
 
-<img src = "HeadSensor/SchemeHeadSensor.jpg"/>
+<img src = "SchemeHeadSensor.jpg"/>
 
 
 <img src = "IrGunEndEdit/Scheme.jpg"/>
